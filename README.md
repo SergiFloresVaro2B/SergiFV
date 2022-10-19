@@ -3,7 +3,7 @@
 
 [GitHub Profile](https://github.com/SergiFloresVaro2B)
 
-[![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
+[![Twitch Status](https://img.shields.io/twitch/status/FlambeScroll640?style=social)](https://twitch.com/flambescroll640)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjZUFsuu4eKYdfH1grhcc7A?style=social)](https://www.youtube.com/channel/UCjZUFsuu4eKYdfH1grhcc7A)
 [![Artstation](https://img.shields.io/badge/ArtStation-000000?logo=Artstation)](https://www.artstation.com/sr_g)
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?logo=Instagram)](https://www.instagram.com/sr.g640)
