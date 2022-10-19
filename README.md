@@ -18,5 +18,5 @@
 <br>
 [![Premiere](https://img.shields.io/badge/Adobe_Premiere-7F7AC9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=262076)]()
 <br>
-[![ZBrush](https://img.shields.io/badge/Zbrush-DA5900?style=for-the-badge&logo=Autodesk&logoColor=black&labelColor=FFFFFF)]()
+[![ZBrush](https://img.shields.io/badge/Z-Zbrush-DA5900?style=for-the-badge&labelColor=FFFFFF)]()
 <br>
