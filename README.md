@@ -1,5 +1,7 @@
 # Hola, me llamo Sergi
 ### Y soy un Dibujante / Diseñador 3d dentro del ámbito del mundo de los videojuegos.
+### Me gustan los videojuegos, dibujar, animar, modelar y texturizar.
+
 
 [GitHub Profile](https://github.com/SergiFloresVaro2B)
 
