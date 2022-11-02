@@ -22,3 +22,7 @@
 <br>
 [![ZBrush](https://img.shields.io/badge/Zbrush-DA5900?style=for-the-badge&logo=Zotero&logoColor=black&labelColor=FFFFFF)]()
 <br>
+
+## Estos son algunos de mis mejores proyectos:
+
+<img src="https://cdna.artstation.com/p/assets/covers/images/053/735/830/smaller_square/sr-g-sr-g-sirdaniel-logo.jpg" width=37.5%><img src="https://cdnb.artstation.com/p/assets/images/images/053/762/401/smaller_square/sr-g-deku-vigilante.jpg" width=37.5%><img src="https://cdnb.artstation.com/p/assets/covers/images/053/762/173/smaller_square/sr-g-sr-g-snk.jpg" width=37.5%><img src="https://cdna.artstation.com/p/assets/images/images/050/504/234/20220614070558/smaller_square/sr-g-meliodasportada.jpg" width=37.5%><img src="https://cdna.artstation.com/p/assets/covers/images/050/585/686/smaller_square/sr-g-sr-g-sergi-flores-t2sergiflores.jpg" width=37.5%><img src="https://cdna.artstation.com/p/assets/images/images/053/762/496/smaller_square/sr-g-percival-4kota.jpg" width=37.5%>
